@@ -1,0 +1,16 @@
+Student with student ID:S1 has first name David, last name Lee and has a grade point of 10.
+Student with student ID:S2 has first name Emma, last name Davis and has a grade point of 10.
+Student with student ID:S3 has first name Noah, last name Wilson and has a grade point of 11.
+Student with student ID:S4 has first name Sophia, last name Clark and has a grade point of 11.
+Student with student ID:S5 has first name Liam, last name Hall and has a grade point of 12.
+Teacher with teacher ID:T1 has first name Alice, last name Smith and teaches Mathematics.
+Teacher with teacher ID:T2 has first name John, last name Brown and teaches Physics.
+Teacher with teacher ID:T3 has first name Maria, last name Johnson and teaches Literature.
+Enrollment with enrollment ID:E1 involves student having student ID:S1 being taught by teacher having teacher ID:T1.
+Enrollment with enrollment ID:E2 involves student having student ID:S1 being taught by teacher having teacher ID:T2.
+Enrollment with enrollment ID:E3 involves student having student ID:S2 being taught by teacher having teacher ID:T1.
+Enrollment with enrollment ID:E4 involves student having student ID:S3 being taught by teacher having teacher ID:T2.
+Enrollment with enrollment ID:E5 involves student having student ID:S3 being taught by teacher having teacher ID:T3.
+Enrollment with enrollment ID:E6 involves student having student ID:S4 being taught by teacher having teacher ID:T3.
+Enrollment with enrollment ID:E7 involves student having student ID:S5 being taught by teacher having teacher ID:T1.
+Enrollment with enrollment ID:E8 involves student having student ID:S5 being taught by teacher having teacher ID:T2.

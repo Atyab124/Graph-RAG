@@ -27,6 +27,6 @@ for i in range(len(df_enrollments)):
 txt= txt_students + txt_teachers + txt_enrollments
 
 #Write the combined text strings to an output text file
-with open("output_csv2text.txt", "w") as text_file:
+with open("database/input/database.txt", "w") as text_file:
     for line in txt:
         text_file.write(str(line) + "\n")

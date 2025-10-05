@@ -1,5 +1,5 @@
 # Ignore virtual environment
-.env/
+env/
 
 # Ignore Jupyter temp notebooks
 temp.ipynb
