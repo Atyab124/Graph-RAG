@@ -1,0 +1,9 @@
+# Ignore virtual environment
+.env/
+
+# Ignore Jupyter temp notebooks
+temp.ipynb
+
+# Ignore generated text files
+output_csv2text.txt
+steps.txt
